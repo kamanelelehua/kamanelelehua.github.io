@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: kamanelelehua.github.io/img/happyPlant.png
+image: img/happyPlant.png
 title: "Automated Watering System"
 date: 2021
 published: true
