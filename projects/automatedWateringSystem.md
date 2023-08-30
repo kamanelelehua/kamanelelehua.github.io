@@ -1,15 +1,14 @@
 ---
 layout: project
 type: project
-image: img/micromouse/micromouse-square.jpg
-title: "Micromouse"
-date: 2015
+image: kamanelelehua.github.io/img/happyPlant.png
+title: "Automated Watering System"
+date: 2021
 published: true
 labels:
-  - Robotics
   - Arduino
-  - C++
-summary: "My team developed a robotic mouse that won first place in the 2015 UH Micromouse competition."
+  - MIT App Inventor 2
+summary: "My team designed a watering system using an Arduino Uno microcontroller, which was controlled by an app created using the online platform MIT App Inventor 2. The app monitored temperature, humidity, and soil moisture values, while also controlling the watering pumps for up to four plants. Users could configure the device to automatically water their plants when the soil moisture level dropped below a certain point, or they could manually activate the water pumps through the app."
 ---
 
 <div class="text-center p-4">
