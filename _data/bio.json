@@ -13,7 +13,7 @@
       { "network": "linkedin", "username": "kamanelelehua", "url": "http://linkedin.com/in/kamanelelehua" },
     ]
   },
-  "interests": [
+ "interests": [
     { "name": "Software Engineering" },
     { "name": "Mobile App Development" },
     { "name": "Reading" }
@@ -39,7 +39,7 @@
       ]
     }
   ],
-  "work": [
+  "work": null [
     {
       "company": "",
       "position": "",
@@ -52,7 +52,7 @@
       ]
     },
   ],
-  "volunteer": [
+  "volunteer": null[
     {
       "organization": "",
       "website": "",
@@ -65,7 +65,7 @@
       ]
     },
   ],
-  "awards": [
+  "awards": null [
     {
       "title": "",
       "date": "",
