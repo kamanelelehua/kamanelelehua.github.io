@@ -39,7 +39,7 @@
       ]
     }
   ],
-  "work": null [
+  "work": [
     {
       "company": "",
       "position": "",
@@ -52,7 +52,7 @@
       ]
     },
   ],
-  "volunteer": null[
+  "volunteer": [
     {
       "organization": "",
       "website": "",
@@ -65,7 +65,7 @@
       ]
     },
   ],
-  "awards": null [
+  "awards":  [
     {
       "title": "",
       "date": "",
