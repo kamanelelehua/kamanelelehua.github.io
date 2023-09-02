@@ -13,7 +13,7 @@ summary: "Automated Water System is a plant watering system with an Arduino Uno 
 
 <div class="text-center p-4">
   <img width="200px" src="../img/wateringProjectApp2.png" class="img-thumbnail" > 
-  <img width="370px" src="../img/wateringProject.png" class="img-thumbnail" >
+  <img width="372px" src="../img/wateringProject.png" class="img-thumbnail" >
   <img width="400px" src="../img/wateringProjectComponents.png" class="img-thumbnail" >
 </div>
 
