@@ -10,7 +10,7 @@ labels:
   - Learning
 ---
 
-<img width="300px" class="rounded float-start pe-4" src="../img/softwareEngineeringClipArt.png">
+<img width="500px" class="rounded float-start pe-4" src="../img/softwareEngineeringClipArt.png">
 
 How did I find myself on this journey into software engineering? Ten years ago, in 2011, I had a very different vision for my future. Upon graduating from high school, I was young, naive, and thought I knew what I wanted to do with the rest of my life. My initial career goal was to follow in my older sister's footsteps and pursue a nursing degree. I enrolled in classes at the University of Maui College, received my Certified Nursing Assistant (CNA) certificate, completed prerequisite courses for Maui's nursing program, and even worked as a CNA to enhance my application. Yet, life had other plans. Over time, I came to realize that healthcare wasn't the right fit for me. I worked in hospice care for a couple of years, and that left me with a somber outlook on life. The turning point came in 2017 when I became a mother and decided it was time for a career change.
 
