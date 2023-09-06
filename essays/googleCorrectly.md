@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "Google It Right"
+title: "Googling the Right Way"
 # All dates must be YYYY-MM-DD format!
 date: 2023-09-05
 published: true
