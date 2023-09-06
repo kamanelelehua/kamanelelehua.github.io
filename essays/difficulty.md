@@ -9,22 +9,15 @@ labels:
   - Google
 ---
 
-*Difficulty: a thing that is hard to accomplish, deal with, or understand.*
+## Google Can Be a Very Powerful Tool in the Right Hands
+words words words
+
+## Asking the Wrong Questions
 
 words words words
 
-## In the context of programming
+## Asking the Right Questions
 
 words words words
 
-## In the context of engineering
 
-words words words
-
-## In the context of relationships
-
-words words words
-
-## Okay!
-
-words words words
