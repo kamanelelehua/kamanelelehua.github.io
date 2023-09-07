@@ -1,9 +1,9 @@
 ---
 layout: essay
 type: essay
-title: "Googling the Right Way"
+title: "Googe, Am I Doing it Correctly?"
 # All dates must be YYYY-MM-DD format!
-date: 2023-09-05
+date: 2023-09-06
 published: true
 labels:
   - Google
