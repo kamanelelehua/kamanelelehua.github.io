@@ -6,6 +6,8 @@ title: "Smart Questions"
 date: 2023-09-06
 published: true
 labels:
+  - Problem-solving
+  - Questioning Skills
   - Stack Overflow
 ---
 
