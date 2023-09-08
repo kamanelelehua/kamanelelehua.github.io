@@ -30,5 +30,6 @@ When posting in forums, using meaningful and specific subject headers can attrac
 >As we have seen, the art of asking the right questions is an invaluable skill that significantly influences the responses you receive when seeking assistance. By diligently laying the necessary groundwork before asking your questions and showcasing your dedication to understanding, you can unlock the full potential of the assistance available to you. Ultimately, the skill of asking the right questions opens the door to effective problem-solving and the collaborative acquisition of knowledge.
 
 ## Links
-- [How To Ask Questions The Smart Way (http://www.catb.org/esr/faqs/smart-questions.html)
+- [How To Ask Questions The Smart Way](http://www.catb.org/esr/faqs/smart-questions.html)
 - [Flutter Firebase Upload Issue](https://stackoverflow.com/questions/76802780/flutter-firebase-upload-does-not-work-correctly)
+Now, the paragraphs should be properly indented when displayed.
