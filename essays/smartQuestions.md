@@ -32,4 +32,3 @@ When posting in forums, using meaningful and specific subject headers can attrac
 ## Links
 - [How To Ask Questions The Smart Way](http://www.catb.org/esr/faqs/smart-questions.html)
 - [Flutter Firebase Upload Issue](https://stackoverflow.com/questions/76802780/flutter-firebase-upload-does-not-work-correctly)
-Now, the paragraphs should be properly indented when displayed.
