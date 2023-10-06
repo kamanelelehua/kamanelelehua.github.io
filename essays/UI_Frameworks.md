@@ -31,7 +31,7 @@ labels:
 ## Recreating a Webpage Using Bootstrap
 <p>In a recent assignment, I was tasked with recreating a webpage using only Bootstrap. Below, you'll find images showcasing my work. You might notice slight differences, particularly in the cropping of the images; this stems from constraints I faced when trying to directly copy images from the original webpage. The most challenging aspect of this project was implementing a carousel to display a series of six images. However, once I got the hang of it, everything else fell into place.</p>
 
-<p>The following images are of the original webpage.</p>
+<p class="font-weight-bold">The following images are of the original webpage.</p>
 <div class="row">
     <div class="col-6"><img src="/img/nuka_Original_1.png" alt="Nuka Original Image 1" class="img-fluid"></div>
     <div class="col-6"><img src="/img/nuka_Original_2.png" alt="Nuka Original Image 2" class="img-fluid"></div>
@@ -41,7 +41,7 @@ labels:
     <div class="col-6"><img src="/img/nuka_Original_4.png" alt="Nuka Original Image 4" class="img-fluid"></div>
 </div>
 
-<p>The following images are of the recreated webpage.</p>
+<p class="font-weight-bold">The following images are of the recreated webpage.</p>
 <div class="row">
     <div class="col-6"><img src="/img/nuka_Recreate_1.png" alt="Nuka Recreated Image 1" class="img-fluid"></div>
     <div class="col-6"><img src="/img/nuka_Recreate_2.png" alt="Nuka Recreated Image 2" class="img-fluid"></div>
