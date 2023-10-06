@@ -30,3 +30,17 @@ labels:
 
 ## Recreating a Webpage Using Bootstrap
 <p>In a recent assignment, I was tasked with recreating a webpage using only Bootstrap. Below, you'll find images showcasing my work. You might notice slight differences, particularly in the cropping of the images; this stems from constraints I faced when trying to directly copy images from the original webpage. The most challenging aspect of this project was implementing a carousel to display a series of six images. However, once I got the hang of it, everything else fell into place.</p>
+
+<p>The following 5 images are of the original webpage.</p>
+<img src="/img/nuka_Original_1.png" alt="Nuka Original Image 1" width="300" height="200">
+<img src="/img/nuka_Original_2.png" alt="Nuka Original Image 2" width="300" height="200">
+<img src="/img/nuka_Original_3.png" alt="Nuka Original Image 3" width="300" height="200">
+<img src="/img/nuka_Original_4.png" alt="Nuka Original Image 4" width="300" height="200">
+<img src="/img/nuka_Original_5.png" alt="Nuka Original Image 5" width="300" height="200">
+
+<p>The following 5 images are of the recreated webpage.</p>
+<img src="/img/nuka_Recreate_1.png" alt="Nuka Recreated Image 1" width="300" height="200">
+<img src="/img/nuka_Recreate_2.png" alt="Nuka Recreated Image 2" width="300" height="200">
+<img src="/img/nuka_Recreate_3.png" alt="Nuka Recreated Image 3" width="300" height="200">
+<img src="/img/nuka_Recreate_4.png" alt="Nuka Recreated Image 4" width="300" height="200">
+<img src="/img/nuka_Recreate_5.png" alt="Nuka Recreated Image 5" width="300" height="200">
