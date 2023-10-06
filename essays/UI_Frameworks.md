@@ -27,4 +27,6 @@ labels:
 
 ## My Personal Take on Bootsrap
 <p>When I first started using Boostrap, I encountered a significant learning curve—it felt like learning a new language. However, as I navigated through the initial challenges, my appreciation for it grew. Building web pages became more straightforward, and customization turned intuitive. The ready-made components, ranging from navigation bars to headers, proved invaluable. Reflecting on my journey with Bootstrap, it stands out as an enjoyable learning experience and a valuable addition to my skillset.</p>
-  
+
+## Recreating a Webpage Using Bootstrap
+<p>In a recent assignment, I was tasked with recreating a webpage using only Bootstrap. Below, you'll find images showcasing my work. You might notice slight differences, particularly in the cropping of the images; this stems from constraints I faced when trying to directly copy images from the original webpage. The most challenging aspect of this project was implementing a carousel to display a series of six images. However, once I got the hang of it, everything else fell into place.</p>
