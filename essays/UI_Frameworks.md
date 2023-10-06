@@ -33,16 +33,20 @@ labels:
 
 <p>The following images are of the original webpage.</p>
 <div class="row">
-    <div class="col"><img src="/img/nuka_Original_1.png" alt="Nuka Original Image 1" class="img-fluid"></div>
-    <div class="col"><img src="/img/nuka_Original_2.png" alt="Nuka Original Image 2" class="img-fluid"></div>
-    <div class="col"><img src="/img/nuka_Original_3.png" alt="Nuka Original Image 3" class="img-fluid"></div>
-    <div class="col"><img src="/img/nuka_Original_4.png" alt="Nuka Original Image 4" class="img-fluid"></div>
+    <div class="col-6"><img src="/img/nuka_Original_1.png" alt="Nuka Original Image 1" class="img-fluid"></div>
+    <div class="col-6"><img src="/img/nuka_Original_2.png" alt="Nuka Original Image 2" class="img-fluid"></div>
 </div>
+<div class="row">
+    <div class="col-6"><img src="/img/nuka_Original_3.png" alt="Nuka Original Image 3" class="img-fluid"></div>
+    <div class="col-6"><img src="/img/nuka_Original_4.png" alt="Nuka Original Image 4" class="img-fluid"></div>
+</div>
+
 <p>The following images are of the recreated webpage.</p>
 <div class="row">
-    <div class="col"><img src="/img/nuka_Recreate_1.png" alt="Nuka Recreated Image 1" class="img-fluid"></div>
-    <div class="col"><img src="/img/nuka_Recreate_2.png" alt="Nuka Recreated Image 2" class="img-fluid"></div>
-    <div class="col"><img src="/img/nuka_Recreatel_3.png" alt="Nuka Recreated Image 3" class="img-fluid"></div>
-    <div class="col"><img src="/img/nuka_Recreate_4.png" alt="Nuka Recreated Image 4" class="img-fluid"></div>
-    <div class="col"><img src="/img/nuka_Recreate_5.png" alt="Nuka Recreated Image 5" class="img-fluid"></div>
+    <div class="col-6"><img src="/img/nuka_Recreate_1.png" alt="Nuka Recreated Image 1" class="img-fluid"></div>
+    <div class="col-6"><img src="/img/nuka_Recreate_2.png" alt="Nuka Recreated Image 2" class="img-fluid"></div>
+</div>
+<div class="row">
+    <div class="col-6"><img src="/img/nuka_Recreate_3.png" alt="Nuka Recreated Image 3" class="img-fluid"></div>
+    <div class="col-6"><img src="/img/nuka_Recreate_4.png" alt="Nuka Recreated Image 4" class="img-fluid"></div>
 </div>
