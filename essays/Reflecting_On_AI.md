@@ -1,13 +1,12 @@
-<!DOCTYPE html>
-<html>
-<head>
-    <meta charset="UTF-8">
-    <title>Reflecting on my Use of AI in ICS 314</title>
-</head>
-<body>
-    <h1>Reflecting on my Use of AI in ICS 314</h1>
-    <p><strong>Date:</strong> 2023-08-31</p>
-    <p><strong>Published:</strong> true</p>
+---
+layout: essay
+type: essay
+title: "Reflecting on AI"
+# All dates must be YYYY-MM-DD format!
+date: 2023-11-20
+published: true
+labels:
+---
 
 <h2>I. Introduction:</h2>
 <p>Since ChatGPT's launch in 2022, AI's role in education, particularly in software engineering, has grown immensely. It's clear from my experiences and observations that AI, with tools like ChatGPT and GitHub Co-Pilot, is here to stay in the academic world. While some educators welcome it, others remind us to use it carefully alongside traditional sources.</p>
