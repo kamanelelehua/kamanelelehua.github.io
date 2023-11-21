@@ -1,0 +1,56 @@
+---
+layout: essay
+type: essay
+title: "Reflecting on my Use of AI in ICS 314"
+# All dates must be YYYY-MM-DD format!
+date: 2023-11-20
+published: true
+labels:
+---
+
+<head>
+    <meta charset="UTF-8">
+    <title>Reflecting on my Use of AI in ICS 314</title>
+</head>
+<body>
+    <h1>Reflecting on my Use of AI in ICS 314</h1>
+    <p><strong>Date:</strong> 2023-08-31</p>
+    <p><strong>Published:</strong> true</p>
+    <p><strong>Labels:</strong></p>
+    <ul>
+        <li>Software Engineering</li>
+        <li>Learning</li>
+    </ul>
+
+    <h2>I. Introduction:</h2>
+    <p>Since ChatGPT's launch in 2022, AI's role in education, particularly in software engineering, has grown immensely. It's clear from my experiences and observations that AI, with tools like ChatGPT and GitHub Co-Pilot, is here to stay in the academic world. While some educators welcome it, others remind us to use it carefully alongside traditional sources.</p>
+
+    <h2>II. Personal Experience with AI:</h2>
+
+    <h3>Experience WODs</h3>
+    <p>For the Experience WODs, timed programming exercises, I didn't rely on AI tools. The instructions, along with instructional videos, were comprehensive enough for me to complete the tasks and resolve any issues independently.</p>
+
+    <h3>In-class Practice WODs</h3>
+    <p>In the in-class Practice WODs, I initially tried to solve problems without AI but soon found it more efficient to use AI for guidance. I mainly used AI to understand the tasks and fix errors, especially in longer exercises.</p>
+
+    <!-- Add more subsections as needed -->
+
+    <h2>III. Impact on Learning and Understanding:</h2>
+    <p>The integration of AI in ICS 314 has significantly improved my problem-solving abilities and the efficiency of learning software engineering concepts. AI tools like ChatGPT provide quick access to information and aid in problem-solving. However, it's essential to use AI responsibly, as over-reliance can hinder deeper learning. AI has also enhanced soft skills like communication and collaboration, but it underscores the importance of a balanced approach to education, combining AI's benefits with independent learning and critical thinking skills development. This balance has been crucial in my software engineering education.</p>
+
+    <h2>IV. Practical Applications:</h2>
+    <p>Beyond ICS 314, AI finds practical applications that impact our daily lives. In the realm of virtual assistants, AI powers systems like Siri and Alexa, offering voice-activated convenience for tasks such as setting reminders and answering queries. AI-driven chatbots in customer service provide efficient support, improving user experiences. These examples illustrate how AI enhances various aspects of our daily routines.</p>
+
+    <h2>V. Challenges and Opportunities:</h2>
+    <p>Using AI in the course had its challenges, including the risk of over-reliance and the need for effective questioning. However, opportunities exist to leverage AI for personalized learning, instant feedback, and collaborative tools, enhancing the overall learning experience.</p>
+
+    <h2>VI. Comparative Analysis:</h2>
+    <p>AI has significantly improved my problem-solving abilities. ChatGPT enables quick access to solutions through prompts. However, irresponsible AI use can hinder the grasp of fundamental concepts. Students choose how to use AI, for deep learning or course completion. AI offers both paths, and it's up to individuals. For me, AI enhances my understanding of software engineering concepts.</p>
+
+    <h2>VII. Future Considerations:</h2>
+    <p>Looking ahead, the integration of AI in software engineering education holds great potential. As technology advances, AI can offer innovative ways to enhance learning. However, thoughtful implementation is key. These AI-driven tools should empower students to explore, experiment, and problem-solve independently, fostering a deeper understanding of software engineering principles. Additionally, addressing ethical and privacy considerations will be crucial as AI becomes more deeply integrated into education.</p>
+
+    <h2>VIII. Conclusion:</h2>
+    <p>In conclusion, AI tools like ChatGPT and GitHub Co-Pilot have transformed my software engineering education, enhancing problem-solving and learning efficiency. While they offer significant benefits, responsible usage is essential to avoid shallow understanding. The future of education involves harnessing AI's advantages while promoting critical thinking. This integration represents a significant step in combining traditional education with advanced technology, offering students a more enriched learning experience in software engineering and beyond.</p>
+</body>
+</html>
