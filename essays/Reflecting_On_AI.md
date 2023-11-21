@@ -8,79 +8,68 @@ published: true
 labels:
 ---
 
-<h2>I. Introduction:</h2>
+<h2>I. Introduction</h2>
 <p>Since ChatGPT's launch in 2022, AI's role in education, particularly in software engineering, has expanded significantly. These tools, like ChatGPT and GitHub Co-Pilot, offer innovative approaches to learning and problem-solving, marking a shift in educational methods. From my experiences, it's evident that AI is becoming a staple in the academic world. While its integration is welcomed by many educators for its advanced capabilities, there's also a growing emphasis on the need to balance its use with traditional educational resources. This careful approach ensures that AI enhances, rather than overshadows, the foundational aspects of learning.</p>
 
-<h2>II. Personal Experience with AI:</h2>
+<h2>II. Personal Experience with AI</h2>
 
+<p>1. Experience WODs:<br>
+For the Experience WODs, timed programming exercises, I didn't rely on AI tools. The instructions, along with instructional videos, were comprehensive enough for me to complete the tasks and resolve any issues independently.</p>
 
-<p>1. Experience WODs<br>
-  For the Experience WODs, timed programming exercises, I didn't rely on AI tools. The instructions, along with instructional videos, were comprehensive enough for me to complete the tasks and resolve any issues independently.</p>
+<p>2. In-class Practice WODs:<br>
+In the in-class Practice WODs, I initially tried to solve problems without AI but soon found it more efficient to use AI for guidance. I mainly used AI to understand the tasks and fix errors, especially in longer exercises.</p>
 
+<p>3. In-class WODs:<br>
+In the in-class WODs, where the points really mattered, I was keen not to fall behind. Whenever I found myself racing against the clock or spending too long on a specific part, I looked to ChatGPT for assistance. It provided quick answers to help me move on and continue the WODs, making sure I finished on time.</p>
 
-<p>2. In-class Practice WODs<br>
-  In the in-class Practice WODs, I initially tried to solve problems without AI but soon found it more efficient to use AI for guidance. I mainly used AI to understand the tasks and fix errors, especially in longer exercises.</p>
+<p>4. Essays:<br>
+ChatGPT has been a useful tool when it comes to planning out the structure of my essays. It helps me start my essays by generating a rough outline, which provides a clear direction for my writing. From there, I can elaborate and conduct any necessary research to include additional information. After completing my drafts, I use ChatGPT again to review them, ensuring they are grammatically correct and have a nice flow.</p>
 
-
-<p>3. In-class WODs<br>
-  In-class WODs were worth way too many points to risk not getting. As soon as I found myself stuck and wasting precious time, I would turn to ChatGPT to help me.</p>
-
-
-<p>4. Essays<br>
-  In my essays, ChatGPT has been a key tool for reviewing and improving my work. It helps with grammar checks and ensures smooth readability. AI has also been useful in generating ideas and structuring the essays, providing a good starting point and framework. While it has its limitations, my experience using ChatGPT for almost all my essays has been highly positive, especially in helping me organize my thoughts and create effective outlines.</p>
-
-
-<p>5. Final project<br>
-  </p>
-
-
-<p>6. Learning a concept / tutorial<br>
-  In learning new concepts and following tutorials in my class, I've frequently used ChatGPT for quick, straightforward queries like understanding the file structure of a meteor application. ChatGPT's ability to explain things simply or in more detail has been very useful, making learning more interactive and accessible. It's been particularly helpful in breaking down complex concepts into simpler terms and providing practical examples, especially in technologies like Underscore and React.</p>
-
-
-<p>7. Answering a question in class or in Discord<br>
-  I haven't used AI to answer questions in class or on Discord because I haven't needed to. The class questions are usually simple, and I haven't been very active in answering questions on Discord.</p>
-
-
-<p>8. Asking or answering a smart-question<br>
-  I haven't used AI for asking or answering smart-questions in the Discord channel because I haven't been active in asking or responding to questions there.</p>
-
-<p>9. Coding example<br>
+<p>5. Final project:<br>
 </p>
 
+<p>6. Learning a concept / tutorial"<br>
+In learning new concepts and following tutorials in my class, I've frequently used ChatGPT for quick, straightforward queries like understanding the file structure of a meteor application. ChatGPT's ability to explain things simply or in more detail has been very useful, making learning more interactive and accessible. It's been particularly helpful in breaking down complex concepts into simpler terms and providing practical examples, especially in technologies like Underscore and React.</p>
 
-<p>10. Explaining code<br>
-  I've regularly used ChatGPT to clarify sections of code that I didn't fully grasp. Whether it's code generated by GitHub CoPilot, from instructional videos, or written by peers, discussing it line by line with ChatGPT has deepened my understanding. This AI-assisted breakdown helps me comprehend not just how the code works, but also the reasoning behind its implementation. Using AI for explaining code has proven to be a fast and efficient method, allowing me to quickly grasp complex concepts and focus on more advanced aspects of the projects. This approach, often initiated with prompts like “Explain this code,” has been integral in enhancing my ability to understand and articulate coding logic.</p>
+<p>7. Answering a question in class or in Discord:<br>
+I haven't used AI to answer questions in class or on Discord because I haven't needed to. The class questions are usually simple, and I haven't been very active in answering questions on Discord.</p>
 
+<p>8. Asking or answering a smart-question:<br>
+I haven't used AI for asking or answering smart-questions in the Discord channel because I haven't been active in asking or responding to questions there.</p>
 
-<p>11. Writing code<br>
-  GitHub CoPilot has been a game-changer for me in writing code. It quickly generates exactly what I need, making coding faster. I also use ChatGPT for quickly putting together basic code pieces and prototypes, saving both time and effort.</p>
-
-
-<p>12. Documenting code<br>
-  GitHub CoPilot automates code documentation by auto-filling comments when I start writing them. Additionally, I use ChatGPT to assist in creating documentation for functions, making the process more efficient and effective. This AI-powered approach has been valuable in enhancing my code documentation practices.</p>
-
-<p>13. Quality assurance<br>
+<p>9. Coding example:<br>
 </p>
 
-<p>14. Other uses in ICS 314 not listed<br>
-  I have primarily used AI for the purposes listed above in ICS 314, and I believe those cover the extent of my AI usage in the course. I haven't employed AI for any other purposes beyond what has been mentioned.</p>
+<p>10. Explaining code:<br>
+I've regularly used ChatGPT to clarify sections of code that I didn't fully grasp. Whether it's code generated by GitHub CoPilot, from instructional videos, or written by peers, discussing it line by line with ChatGPT has deepened my understanding. This AI-assisted breakdown helps me comprehend not just how the code works, but also the reasoning behind its implementation. Using AI for explaining code has proven to be a fast and efficient method, allowing me to quickly grasp complex concepts and focus on more advanced aspects of the projects. This approach, often initiated with prompts like “Explain this code,” has been integral in enhancing my ability to understand and articulate coding logic.</p>
 
-<h2>III. Impact on Learning and Understanding:</h2>
+<p>11. Writing code:<br>
+GitHub CoPilot has been a game-changer for me in writing code. It quickly generates exactly what I need, making coding faster. I also use ChatGPT for quickly putting together basic code pieces and prototypes, saving both time and effort.</p>
+
+<p>12. Documenting code:<br>
+GitHub CoPilot automates code documentation by auto-filling comments when I start writing them. Additionally, I use ChatGPT to assist in creating documentation for functions, making the process more efficient and effective. This AI-powered approach has been valuable in enhancing my code documentation practices.</p>
+
+<p>13. Quality assurance:<br>
+</p>
+
+<p>14. Other uses in ICS 314 not listed:<br>
+I have primarily used AI for the purposes listed above in ICS 314, and I believe those cover the extent of my AI usage in the course. I haven't employed AI for any other purposes beyond what has been mentioned.</p>
+
+<h2>III. Impact on Learning and Understanding</h2>
 <p>The integration of AI in ICS 314 has significantly improved my problem-solving abilities and the efficiency of learning software engineering concepts. AI tools like ChatGPT provide quick access to information and aid in problem-solving. However, it's essential to use AI responsibly, as over-reliance can hinder deeper learning. AI has also enhanced soft skills like communication and collaboration, but it underscores the importance of a balanced approach to education, combining AI's benefits with independent learning and critical thinking skills development. This balance has been crucial in my software engineering education.</p>
 
-<h2>IV. Practical Applications:</h2>
+<h2>IV. Practical Applications</h2>
 <p>Beyond ICS 314, AI finds practical applications that impact our daily lives. In the realm of virtual assistants, AI powers systems like Siri and Alexa, offering voice-activated convenience for tasks such as setting reminders and answering queries. AI-driven chatbots in customer service provide efficient support, improving user experiences. These examples illustrate how AI enhances various aspects of our daily routines.</p>
 
-<h2>V. Challenges and Opportunities:</h2>
+<h2>V. Challenges and Opportunities</h2>
 <p>Using AI in the course had its challenges, including the risk of over-reliance and the need for effective questioning. However, opportunities exist to leverage AI for personalized learning, instant feedback, and collaborative tools, enhancing the overall learning experience.</p>
 
-<h2>VI. Comparative Analysis:</h2>
+<h2>VI. Comparative Analysis</h2>
 <p>AI has significantly improved my problem-solving abilities. ChatGPT enables quick access to solutions through prompts. However, irresponsible AI use can hinder the grasp of fundamental concepts. Students choose how to use AI, for deep learning or course completion. AI offers both paths, and it's up to individuals. For me, AI enhances my understanding of software engineering concepts.</p>
 
 
-<h2>VII. Future Considerations:</h2>
+<h2>VII. Future Considerations</h2>
 <p>Looking ahead, the integration of AI in software engineering education holds great potential. As technology advances, AI can offer innovative ways to enhance learning. However, thoughtful implementation is key. These AI-driven tools should empower students to explore, experiment, and problem-solve independently, fostering a deeper understanding of software engineering principles. Additionally, addressing ethical and privacy considerations will be crucial as AI becomes more deeply integrated into education.</p>
 
-<h2>VIII. Conclusion:</h2>
+<h2>VIII. Conclusion</h2>
 <p>In conclusion, AI tools like ChatGPT and GitHub Co-Pilot have transformed my software engineering education, enhancing problem-solving and learning efficiency. While they offer significant benefits, responsible usage is essential to avoid shallow understanding. The future of education involves harnessing AI's advantages while promoting critical thinking. This integration represents a significant step in combining traditional education with advanced technology, offering students a more enriched learning experience in software engineering and beyond.</p>
