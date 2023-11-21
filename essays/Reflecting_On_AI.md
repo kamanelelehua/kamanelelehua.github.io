@@ -49,9 +49,6 @@ labels:
 <h3>Documenting code</h3>
 <p>GitHub CoPilot automates code documentation by auto-filling comments when I start writing them. Additionally, I use ChatGPT to assist in creating documentation for functions, making the process more efficient and effective. This AI-powered approach has been valuable in enhancing my code documentation practices.</p>
 
-<h3>Quality assurance e.g. “What’s wrong with this code <code here>” or “Fix the ESLint errors in <code here>”</h3>
-<p>In terms of quality assurance, ChatGPT played a vital role in identifying and addressing issues within code. Its ability to swiftly spot errors and provide recommendations improved the overall quality of the codebase.</p>
-
 <h3>Other uses in ICS 314 not listed</h3>
 <p>I have primarily used AI for the purposes listed above in ICS 314, and I believe those cover the extent of my AI usage in the course. I haven't employed AI for any other purposes beyond what has been mentioned.</p>
 
