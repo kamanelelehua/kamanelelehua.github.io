@@ -17,7 +17,7 @@ labels:
 For the Experience WODs, timed programming exercises, I didn't rely on AI tools. The instructions, along with instructional videos, were comprehensive enough for me to complete the tasks and resolve any issues independently.</p>
 
 <p>2. In-class Practice WODs:<br>
-In the in-class Practice WODs, I initially tried to solve problems without AI but soon found it more efficient to use AI for guidance. I mainly used AI to understand the tasks and fix errors, especially in longer exercises.</p>
+In the in-class Practice WODs, I initially tried to solve problems without AI but soon found it more efficient to use AI for guidance. I mainly used AI to understand the tasks and fix errors, especially in longer exercises. One example of </p>
 
 <p>3. In-class WODs:<br>
 In the in-class WODs, where the points really mattered, I was keen not to fall behind. Whenever I found myself racing against the clock or spending too long on a specific part, I looked to ChatGPT for assistance. It provided quick answers to help me move on and continue the WODs, making sure I finished on time.</p>
@@ -38,6 +38,7 @@ I haven't used AI to answer questions in class or on Discord because I haven't n
 I haven't used AI for asking or answering smart-questions in the Discord channel because again, I haven't been active in asking or responding to questions there.</p>
 
 <p>9. Coding example:<br>
+  In a WOD involving Underscore.js for CO2 data analysis, I consulted ChatGPT to correct errors in my code. This helped me effectively utilize functions like `_.contains`, `_.pluck`, and `_.filter`, enhancing my understanding of functional programming in JavaScript.
 </p>
 
 <p>10. Explaining code:<br>
@@ -50,6 +51,7 @@ Using GitHub CoPilot has made coding much easier and more efficient for me. It q
 When it comes to documenting my code, I’ve found GitHub CoPilot to be very useful. It simplifies the process by automatically suggesting comments as I write, which helps keep my code clear and understandable.</p>
 
 <p>13. Quality assurance:<br>
+For quality assurance, I used ChatGPT to identify and fix coding errors. Its immediate feedback on syntax and logic errors was instrumental in improving my code quality, complemented by GitHub Co-Pilot's real-time coding suggestions.
 </p>
 
 <p>14. Other uses in ICS 314 not listed:<br>
