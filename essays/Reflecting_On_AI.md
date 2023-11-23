@@ -38,7 +38,7 @@ I haven't used AI to answer questions in class or on Discord because I haven't n
 I haven't used AI for asking or answering smart-questions in the Discord channel because again, I haven't been active in asking or responding to questions there.</p>
 
 <p>9. Coding example:<br>
-  In a WOD involving Underscore.js for CO2 data analysis, I consulted ChatGPT to correct errors in my code. This helped me effectively utilize functions like `_.contains`, `_.pluck`, and `_.filter`, enhancing my understanding of functional programming in JavaScript.
+  In a WOD involving Underscore.js for CO2 data analysis, I consulted ChatGPT to correct errors in my code. This helped me effectively utilize functions like _.contains, _.pluck, and _.filter, enhancing my understanding of functional programming in JavaScript.
 </p>
 
 <p>10. Explaining code:<br>
