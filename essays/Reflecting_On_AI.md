@@ -6,6 +6,9 @@ title: "Reflecting on AI"
 date: 2023-11-20
 published: true
 labels:
+ - ChatGPT
+ - GitHub Co-Pilot
+ - AI
 ---
 
 <h2>I. Introduction</h2>
