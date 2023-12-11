@@ -1,13 +1,15 @@
 ---
 layout: essay
 type: essay
-title: "The Art of Applying Design Patterns in Software Development"
+title: "Web Development Essentials"
 # All dates must be YYYY-MM-DD format!
 date: 2023-12-10
 published: true
 labels:
-  - 
-  - 
+  - Software Engineering
+  - Coding Standards
+  - Development Environments
+  - UI Frameworks
 ---
 
 Over the course of this semester in my software engineering class, I've gained a thorough understanding of several key concepts in the field. The primary areas I'll discuss in this essay are Coding Standards, Development Environments, and User Interface Frameworks. These topics were not only crucial for our coursework but also pivotal in our final group project, providing a real-world application of what we learned.
