@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: <img width="200px" src="/img/M3-LandingPage1.png" alt="Project Image">
+image: <img width="200px" src="../img/M3-LandingPage1.png" alt="Project Image">
 title: "Manoa Study Abroad Central"
 date: 2023
 published: true
