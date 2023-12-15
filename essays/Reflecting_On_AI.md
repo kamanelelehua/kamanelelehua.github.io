@@ -4,7 +4,7 @@ type: essay
 title: "Reflecting on AI"
 # All dates must be YYYY-MM-DD format!
 date: 2023-11-20
-published: true
+published: false
 labels:
  - ChatGPT
  - GitHub Co-Pilot
