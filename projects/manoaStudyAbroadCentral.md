@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: ../img/M3-LandingPage1.png
+image: /img/M3-LandingPage1.png
 title: "Manoa Study Abroad Central"
 date: 2023
 published: true
