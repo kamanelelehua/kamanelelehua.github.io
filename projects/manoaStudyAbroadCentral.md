@@ -13,7 +13,7 @@ summary: "Developed a web application for UH students to explore diverse study a
 ---
 
 <div class="text-center p-4">
-  <img width="450px" src="../img/programs.png" class="img-thumbnail" > 
+  <img width="500px" src="../img/programs.png" class="img-thumbnail" > 
   <img width="400px" src="../img/addPost.png" class="img-thumbnail" >
   <img width="300px" src="../img/testimonials.png" class="img-thumbnail" >
 </div>
