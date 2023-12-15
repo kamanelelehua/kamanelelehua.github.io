@@ -1,0 +1,47 @@
+{
+  "basics": {
+    "name": "Victoria Ka'aihili",
+    "label": "Student",
+    "picture": "https://github.com/kamanelelehua.png",
+    "email": "Vkaaihil@hawaii.edu",
+    "phone": "",
+    "website": "https://kamanelelehua.github.io",
+    "summary": "I am studying for a B.S. in Computer Engineering at the University of Hawaii at Manoa. I expect to graduate in Spring, 2024.",
+    "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "profiles": [
+      { "network": "github", "username": "kamanelelehua", "url": "http://github.com/kamanelelehua" },
+      { "network": "linkedin", "username": "kamanelelehua", "url": "http://linkedin.com/in/kamanelelehua" },
+    ]
+  },
+ "interests": [
+    { "name": "Software Engineering" },
+    { "name": "Mobile App Development" },
+    { "name": "Reading" }
+  ],
+  "skills": [
+    {
+      "name": "Languages and Frameworks",
+      "keywords": [ "C", "C++", "Javascript", "Python", "MatLab" ]
+    },
+    {
+      "name": "Toolsets/OS",
+      "keywords": [ "Windows", "Linux", "Visual Studios", "Git/GitHub", "g++" ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Hawaii, Honolulu, HI",
+      "area": "Computer Engineering (expected Spring, 2024)",
+      "studyType": "B.S.",
+      "startDate": "2019-09-01",
+      "endDate": "Present",
+      "courses": [
+      ]
+    }
+  ],
+  "references": [
+    {
+      "name": "Available upon request"
+    }
+  ]
+}
