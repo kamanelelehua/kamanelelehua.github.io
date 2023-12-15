@@ -9,7 +9,7 @@ labels:
   - Software Engineering
   - Meteor
   - Javascript
-summary: ""
+summary: "Developed a web application for UH students to explore divers study abroad programs and access posts sharing other students' experiences in one convenient platform."
 ---
 
 <div class="text-center p-4">
@@ -18,6 +18,5 @@ summary: ""
   <img width="400px" src="../img/wateringProjectComponents.png" class="img-thumbnail" >
 </div>
 
-My team designed a watering system using an Arduino Uno microcontroller, which was controlled by an app created using the online platform MIT App Inventor 2. The app monitored temperature, humidity, and soil moisture values, while also controlling the watering pumps for up to four plants. Users could configure the device to automatically water their plants when the soil moisture level dropped below a certain point, or they could manually activate the water pumps through the app. 
+Manoa Study Abroad Central is a web application that my group and I developed for our final project, designed to simplify the process of choosing a study abroad or exchange program at UH Manoa. With numerous programs available, students often face confusion and uncertainty. Our platform offers program overviews, peer testimonials, and interactive features like liking and commenting on posts. Users can search and filter posts by program or region. Additionally, an administration panel allows admins to monitor activity, approve or delete posts, remove comments, and flag posts for a seamless user experience.<br>
 
-My specific role in this project was to assemble the device, wire the components together, and to design the app. I also had to collaborate closely with team members to ensure seamless integration of hardware and software components for our Automated Watering System project.
